@@ -1,2 +1,3 @@
 # Info-Wizard
-Thousands and thousands of tools and guides that will help you become a great hacker
+Thousands and thousands of tools and guides to protect yourself online
+Well my company is ovbiously called Info-Wizard. We are an e-commerce type busines specializing in internet hacking, software, and tools. Our guides are completely educational and a way to inform the public that these things are actually happening. I have investigated many of 10s of thousands of different ways and found out for myself that they do work. I loved everything about it besies stealing from innocent people so instead of makng my livng "carding" (a term you will find out later), I have decided to start a number of businesses so this will be my first one. 
