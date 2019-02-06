@@ -5,9 +5,9 @@
     "version": "0.2.0",
         
         
-          "type": "ourOwnName",
+          "type": "Bret Hruby",
             "request": "launch",
             "name": "Bash-Debug (simplest configuration)",
-            "program": "${file}"
+            "program": "${launch.json}"
     
         }
